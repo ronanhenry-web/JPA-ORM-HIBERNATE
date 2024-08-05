@@ -1,8 +1,12 @@
-# TP-ORM-JPA-HIBERNATE
+<h1 align="left">Projet Java / Objectif utiliser l'héritage, mapping JPA et la manipulation de la BDD</h1>
 
-Créer une BDD avec le nom "petstore" puis il faut run le fichier App.java pour avoir la BDD remplit. 
-De plus le driver choisi est MySQL attention à la BDD choisi.
+<h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre les étapes suivantes :  
 
-La requête permet de d'afficher les animaux en fonction du petstore (par l'ID)
+  - avoir une BDD et suivre les consignes du fichier properties
+  - compiler le fichier main
+</h3>
 
-Author : Ronan HENRY
+<h3 align="left">Langage :</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</p>
