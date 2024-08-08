@@ -1,4 +1,4 @@
-# Projet Java
+# Projet JPA ORM Hibernate
 
 Objectif utiliser l'héritage, mapping JPA et la manipulation de la BDD
 
